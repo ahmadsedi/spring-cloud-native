@@ -15,6 +15,8 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 
 /**
  * @author Ahmad R. Seddighi (ahmadseddighi@yahoo.com)
+ * Focuses on the functionality of BookController's functionality.
+ *
  * Date: 04/12/2024
  * Time: 14:05
  */
