@@ -14,7 +14,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ahmadsedi/spring-cloud-config/config-repo
+          uri: https://github.com/ahmadsedi/config-repo
           default-label: main
           timeout: 5
           clone-on-start: true
