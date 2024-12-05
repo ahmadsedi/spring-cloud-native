@@ -1,0 +1,4 @@
+rootProject.name = 'cloud-native'
+include 'catalog-service'
+include 'config-service'
+
